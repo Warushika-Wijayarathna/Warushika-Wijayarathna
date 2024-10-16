@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warushika-wijayarathna&label=Profile%20views&color=0e75b6&style=flat" alt="warushika-wijayarathna" /> </p>
-
+<div style="display: flex; justify-content: center; align-items: center; height: 80;">
+    <img width="100%"; 
+height="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+</div>
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **Java**
